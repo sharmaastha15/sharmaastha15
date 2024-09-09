@@ -5,10 +5,7 @@
      📓 Off the clock, I dive into novels, fueling my mind and igniting my imagination.<br/>
      🚀 Open Source Contributor<br/>
    ⚡ Fun fact : I'm a coding enthusiast with a strong athletic background, including a silver medal and a brown belt in Martial Arts🥷🏽.<br/>
-   📧  Reach me at <br/> <a href="aastha.1544.sharma@gmail.com">aastha.1544.sharma@gmail.com</a> <br/>
-   
-
-  
+   📧  Reach me at <br/> <a href="aastha.1544.sharma@gmail.com">aastha.1544.sharma@gmail.com</a> <br/>  
 </p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/sharmaastha15" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -37,7 +34,6 @@
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" /> 
 </div>
 </details>
 <br/>
@@ -53,7 +49,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaastha15&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="sharmaastha15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaastha15&theme=prussian&hide_border=false" alt="sharmaastha15" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaastha15&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sharmaastha15" /></p>
-</details> 
+</details>
+<footer>
 <h2>❤️ Support Me</h2>
 <p><b> ̷C̷H̷A̷I  COFFEE pe charchaaa..<b/><p>
 <a href="https://www.buymeacoffee.com/https://studio.buymeacoffee.com/dashboard">
@@ -61,4 +58,5 @@
 </a>
 </p>
 </p>
+</footer>
 
