@@ -26,24 +26,27 @@
 <details>	
  <summary><b>🎖️GSSOC(24) Badges</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/6.png" width="105px" height="105px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/7.png" width="100px" height="100px" />
+  <img src="https://github.com/sharmaastha15/CodSoft/blob/main/GSSoC24_Stats.png" align="center"  width="550px" height="280px" /><br/>
+     <br/>
+<img src="https://github.com/sharmaastha15/CodSoft/blob/main/AASTHA_SHARMA_Badge_Campus_Ambassador_GSSoC2024-Extd.png" align="center"  width="550px" height="300px" />
 </div>
 </details>
 <br/>
+<details>	
+<summary><b>🔖Holopin badges </b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://www.holopin.io/@sharmaastha15">">
+<img  height=200 src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="sharmaastha15" />
+<img height=200 src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="sharmaastha15" />  
+</div>
+</details>
+ <br/> 
 <details>	
 <summary><b>🏆Github Trophies </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/ryo-ma/github-profile-trophy">
 <img  height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true" alt="sharmaastha15" />
 </div>
 </details>
- <br/> 
+     <br/>
 <details>
 <summary><b>📋My Github Stats </b></summary><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaastha15&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="sharmaastha15" /></p>
