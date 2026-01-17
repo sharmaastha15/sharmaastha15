@@ -32,19 +32,19 @@
 <img height=200 src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="sharmaastha15" />  
 </div>
 </details>
- <br/> 
-<details>	
-<summary><b>🏆Github Trophies </b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/ryo-ma/github-profile-trophy">
-<img  height=200 align="center" src="https://github-profile-trophy-liard-delta.vercel.app/?username=sharmaastha15" alt="sharmaastha15" />
-</div>
-</details>
      <br/>
 <details>
 <summary><b>📋My Github Stats </b></summary><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmaastha15&show_icons=true&locale=en&theme=midnight-purple&rank_icon=github" alt="sharmaastha15" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmaastha15&theme=prussian&hide_border=false" alt="sharmaastha15" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sharmaastha15&lang_count=8&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="sharmaastha15" /></p>
+</details>
+ <br/> 
+<details>	
+<summary><b>🏆Github Trophies </b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/ryo-ma/github-profile-trophy">
+<img  height=200 align="center" src="https://github-profile-trophy-liard-delta.vercel.app/?username=sharmaastha15" alt="sharmaastha15" />
+</div>
 </details>
 <footer>
 <h2>❤️ Support Me</h2>
