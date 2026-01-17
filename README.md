@@ -43,7 +43,7 @@
 <details>	
 <summary><b>🏆Github Trophies </b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://github.com/ryo-ma/github-profile-trophy">
-<img  height=200 align="center" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&no-frame=true" alt="sharmaastha15" />
+<img  height=200 align="center" src="https://github-profile-trophy-liard-delta.vercel.app/?username=sharmaastha15" alt="sharmaastha15" />
 </div>
 </details>
      <br/>
